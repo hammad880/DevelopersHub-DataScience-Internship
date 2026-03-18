@@ -131,13 +131,21 @@ Customers with higher income and specific job categories are more likely to acce
 # 📂 Repository Structure
 
 DevelopersHub-DataScience-Internship
+
 │
+
 ├── Task_1_Iris_EDA.ipynb
+
 ├── Task_2_Credit_Risk_Prediction.ipynb
+
 ├── Task_3_Customer_Churn.ipynb
+
 ├── Task_4_Insurance_Prediction.ipynb
+
 ├── Task_5_Loan_Acceptance.ipynb
+
 └── README.md
+
 
 
 ---
