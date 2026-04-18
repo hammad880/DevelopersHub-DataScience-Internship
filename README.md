@@ -176,7 +176,7 @@ Through these tasks, I developed skills in:
 
 This repository contains my work for **Phase 2 of the Data Science & Analytics Internship** at DevelopersHub Corporation.
 
-In this phase, I worked on advanced machine learning tasks including **classification, clustering, and explainable AI**, along with building practical data-driven solutions.
+In this phase, I worked on advanced data science tasks including **classification, clustering, regression, time series analysis, and dashboard development**.
 
 ---
 
@@ -185,8 +185,9 @@ In this phase, I worked on advanced machine learning tasks including **classific
 * Data Cleaning & Preprocessing
 * Exploratory Data Analysis (EDA)
 * Feature Engineering
-* Machine Learning (Classification & Clustering)
-* Model Evaluation (Confusion Matrix, F1 Score, ROC Curve)
+* Machine Learning (Classification, Regression, Clustering)
+* Time Series Analysis
+* Model Evaluation (MAE, RMSE, F1 Score, ROC Curve)
 * Explainable AI using SHAP
 * Data Visualization
 
@@ -214,7 +215,7 @@ Python, pandas, scikit-learn, matplotlib, seaborn, SHAP
 
 📈 **Outcome:**
 
-* Built a high-performing classification model
+* Built a classification model with strong performance
 * Identified key factors influencing customer decisions
 
 ---
@@ -232,43 +233,88 @@ Python, pandas, matplotlib, seaborn, scikit-learn
 * Data preprocessing
 * Feature scaling
 * Applied K-Means clustering
-* Used Elbow Method to find optimal clusters
-* Visualized customer segments
+* Used Elbow Method to determine optimal clusters
+* Visualized clusters
 
 📈 **Outcome:**
 
-* Identified distinct customer groups
-* Provided insights for targeted marketing
+* Identified distinct customer segments
+* Enabled better targeting strategies
+
+---
+
+### 🔹 Task 3 — Time Series Forecasting
+
+📌 **Objective:**
+Analyze and forecast future trends based on time-based data.
+
+🛠 **Technologies Used:**
+Python, pandas, matplotlib, statsmodels
+
+📊 **Key Steps:**
+
+* Time-based data preprocessing
+* Trend and seasonality analysis
+* Applied forecasting model (e.g., ARIMA / moving average)
+* Visualization of predictions
+
+📈 **Outcome:**
+
+* Forecasted future values based on historical trends
+* Understood patterns in time-dependent data
+
+---
+
+### 🔹 Task 4 — Cost Prediction (Regression Analysis)
+
+📌 **Objective:**
+Predict continuous values (e.g., cost/price) using regression models.
+
+🛠 **Technologies Used:**
+Python, pandas, scikit-learn
+
+📊 **Key Steps:**
+
+* Data preprocessing and encoding
+* Applied Linear Regression model
+* Evaluated model using MAE and RMSE
+* Feature importance analysis
+
+📈 **Outcome:**
+
+* Built a regression model for cost estimation
+* Identified key variables affecting cost
 
 ---
 
 ### 🔹 Task 5 — Interactive Dashboard (Streamlit)
 
 📌 **Objective:**
-Build an interactive dashboard to visualize data insights.
+Build an interactive dashboard to visualize insights.
 
 🛠 **Technologies Used:**
 Python, Streamlit, pandas, matplotlib
 
 📊 **Key Features:**
 
-* Interactive UI
+* Interactive user interface
 * Real-time data visualization
-* User input-based analysis
+* User-driven analysis
 
 📈 **Outcome:**
 
-* Developed a user-friendly dashboard
-* Improved data accessibility and insights
+* Created a user-friendly dashboard
+* Improved accessibility of insights
 
 ---
 
 ## 📊 Key Learnings
 
-* Difference between **classification and clustering**
-* Importance of **feature scaling in ML models**
-* Understanding model performance metrics
-* How to explain models using **SHAP (Explainable AI)**
+* Difference between classification, regression, and clustering
+* Importance of feature scaling and preprocessing
+* Understanding time series data and forecasting
+* Evaluating models using appropriate metrics
+* Applying explainable AI techniques (SHAP)
 * Building real-world data applications
 
 ---
@@ -281,8 +327,8 @@ Python, Streamlit, pandas, matplotlib
 
 ## 🎯 Conclusion
 
-Phase 2 helped me strengthen my understanding of machine learning and real-world problem solving.
-It enhanced my ability to build, evaluate, and explain models effectively.
+Phase 2 strengthened my ability to solve real-world problems using data science techniques.
+It enhanced my skills in model building, evaluation, and data-driven decision making.
 
 ---
 
