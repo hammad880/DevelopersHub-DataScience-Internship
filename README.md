@@ -166,8 +166,135 @@ Through these tasks, I developed skills in:
 
 ---
 
+# 🚀 Data Science Internship - Phase 2
+
+**DevelopersHub Corporation**
+
+---
+
+## 📌 Overview
+
+This repository contains my work for **Phase 2 of the Data Science & Analytics Internship** at DevelopersHub Corporation.
+
+In this phase, I worked on advanced machine learning tasks including **classification, clustering, and explainable AI**, along with building practical data-driven solutions.
+
+---
+
+## 🧠 Skills Applied
+
+* Data Cleaning & Preprocessing
+* Exploratory Data Analysis (EDA)
+* Feature Engineering
+* Machine Learning (Classification & Clustering)
+* Model Evaluation (Confusion Matrix, F1 Score, ROC Curve)
+* Explainable AI using SHAP
+* Data Visualization
+
+---
+
+## 📂 Tasks Completed
+
+---
+
+### 🔹 Task 1 — Bank Marketing Term Deposit Prediction
+
+📌 **Objective:**
+Predict whether a customer will subscribe to a term deposit.
+
+🛠 **Technologies Used:**
+Python, pandas, scikit-learn, matplotlib, seaborn, SHAP
+
+📊 **Key Steps:**
+
+* Data preprocessing and encoding
+* Logistic Regression & Random Forest models
+* Model evaluation using confusion matrix and classification report
+* ROC Curve analysis
+* Feature importance using SHAP
+
+📈 **Outcome:**
+
+* Built a high-performing classification model
+* Identified key factors influencing customer decisions
+
+---
+
+### 🔹 Task 2 — Customer Segmentation (K-Means Clustering)
+
+📌 **Objective:**
+Group customers into different segments based on behavior.
+
+🛠 **Technologies Used:**
+Python, pandas, matplotlib, seaborn, scikit-learn
+
+📊 **Key Steps:**
+
+* Data preprocessing
+* Feature scaling
+* Applied K-Means clustering
+* Used Elbow Method to find optimal clusters
+* Visualized customer segments
+
+📈 **Outcome:**
+
+* Identified distinct customer groups
+* Provided insights for targeted marketing
+
+---
+
+### 🔹 Task 5 — Interactive Dashboard (Streamlit)
+
+📌 **Objective:**
+Build an interactive dashboard to visualize data insights.
+
+🛠 **Technologies Used:**
+Python, Streamlit, pandas, matplotlib
+
+📊 **Key Features:**
+
+* Interactive UI
+* Real-time data visualization
+* User input-based analysis
+
+📈 **Outcome:**
+
+* Developed a user-friendly dashboard
+* Improved data accessibility and insights
+
+---
+
+## 📊 Key Learnings
+
+* Difference between **classification and clustering**
+* Importance of **feature scaling in ML models**
+* Understanding model performance metrics
+* How to explain models using **SHAP (Explainable AI)**
+* Building real-world data applications
+
+---
+
+## 🔗 Repository Link
+
+👉 https://github.com/hammad880/DevelopersHub-DataScience-Internship
+
+---
+
+## 🎯 Conclusion
+
+Phase 2 helped me strengthen my understanding of machine learning and real-world problem solving.
+It enhanced my ability to build, evaluate, and explain models effectively.
+
+---
+
 # 🔗 Author
 
 **Hammad Asjad**
 
-GitHub: https://github.com/hammad880
+
+## 📬 Contact
+
+📧 Email: [hammad.asjad.cui@gmail.com](mailto:hammad.asjad.cui@gmail.com)
+🔗 LinkedIn: https://www.linkedin.com/in/hammad-asjad-8010a0304/
+🔗 GitHub: https://github.com/hammad880
+
+---
